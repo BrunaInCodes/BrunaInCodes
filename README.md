@@ -2,13 +2,13 @@
 
 <table>
   <tr>
-    <td>
-      <h3>📚 Cursando Sistemas de Informação no IFBA</h3>
+    <td width="55%">
+      <h3>📚 Cursando [Seu Curso] no [Sua Instituição]</h3>
       <h3>🚀 Buscando sempre os melhores resultados!</h3>
-      <h3>🌎 Vitória da Conquista, Bahia, Brasil</h3>
+      <h3>🌎 [Sua Cidade, Estado, País]</h3>
     </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpbWVsNW1ieDIyenJmdTVvOGwyOXFzcnYxZHhnamlrcWFuNWc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+    <td width="45%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpbWVsNW1ieDIyenJmdTVvOGwyOXFzcnYxZHhnamlrcWFuNWc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
     </td>
   </tr>
 </table>
@@ -31,3 +31,4 @@
 - **LinkedIn:** [Bruna Graciele](http://linkedin.com/in/bruna-graciele)  
 - **GitHub:** [BrunaInCodes](https://github.com/BrunaInCodes)  
 - **Email:** brrunagrasile@gmail.com  
+
