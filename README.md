@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3>📚 Cursando  **Sistemas de Informação** no  **IFBA**</h3>
+      <h3>📚 Cursando Sistemas de Informação no IFBA</h3>
       <h3>🚀 Buscando sempre os melhores resultados!</h3>
       <h3>🌎 Vitória da Conquista, Bahia, Brasil</h3>
     </td>
