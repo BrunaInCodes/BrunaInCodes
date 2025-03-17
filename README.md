@@ -1,37 +1,35 @@
-# Bem Vindo! Eu sou [Seu Nome] 👋  
-![Mulher programando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpbWVsNW1ieDIyenJmdTVvOGwyOXFzcnYxZHhnamlrcWFuNWc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)  
+# Bem Vinda! Eu sou Bruna 👋  
 
-## 🚀 Sobre mim  
-📚 Cursando **Sistemas de Informação** no **IFBA**  
-🔍 Buscando sempre os melhores resultados!  
-🌎 Vitória da Conquista, Bahia, Brasil  
-
----
-
-## 💻 Use To Code  
-🔹 **Linguagens e recursos que uso:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<table>
+  <tr>
+    <td>
+      📚 Cursando **[Seu Curso]** no **[Sua Instituição]** <br>
+      🚀 Buscando sempre os melhores resultados! <br>
+      🌎 **[Sua Cidade, Estado, País]**
+    </td>
+    <td align="right">
+      <img src="URL_DO_SEU_GIF" width="300px">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Projetos Recentes  
-🔹 [**SpotifyDataset**](https://github.com/seu-usuario/SpotifyDataset) 🎵 - Exemplo de dataset do PowerBI usando dados do Spotify  
-🔹 [**MinesweeperGuide**](https://github.com/seu-usuario/MinesweeperGuide) 🚀 - Algoritmo AC3 para Minesweeper  
-🔹 [**SquirdleSolver**](https://github.com/seu-usuario/SquirdleSolver) 🔍 - Algoritmo para resolver Squirdle  
-🔹 [**NLW-BeautySalon**](https://github.com/seu-usuario/NLW-BeautySalon) 💄 - Site criado na NextLevelWeek  
+## 💻 Tecnologias que uso  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunaInCodes&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaInCodes&layout=compact&theme=dark)  
 
 ---
 
 ### 🔗 **Contato**  
-📧 Email: [Seu Email]  
-💼 LinkedIn: [Seu LinkedIn]  
-🔗 Portfólio: [Seu Site]  
+🔹 **LinkedIn:** [Bruna Graciele](http://linkedin.com/in/bruna-graciele)  
+🔹 **GitHub:** [BrunaInCodes](https://github.com/BrunaInCodes)  
+📧 **Email:** brrunagrasile@gmail.com  
+
