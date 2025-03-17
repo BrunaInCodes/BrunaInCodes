@@ -1,4 +1,4 @@
-# Bem Vinda! Eu sou Bruna 👋  
+# Bem Vindos! Eu sou Bruna 👋  
 
 <table>
   <tr>
