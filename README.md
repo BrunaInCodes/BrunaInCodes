@@ -1,23 +1,37 @@
-# OLÁ, PESSOAL! 👋
+# Bem Vindo! Eu sou [Seu Nome] 👋  
+![Mulher programando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpbWVsNW1ieDIyenJmdTVvOGwyOXFzcnYxZHhnamlrcWFuNWc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
-Sou Bruna Graciele, uma entusiasta da tecnologia que está explorando esse mundo empolgante.
+## 🚀 Sobre mim  
+📚 Cursando **Sistemas de Informação** no **IFBA**  
+🔍 Buscando sempre os melhores resultados!  
+🌎 Vitória da Conquista, Bahia, Brasil  
 
-Junte-se a mim nesta jornada no GitHub enquanto aprendo, programo e exploro as últimas tendências tecnológicas.
+---
 
-## 📊 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrunaInCodes&show_icons=true&theme=dark)
+## 💻 Use To Code  
+🔹 **Linguagens e recursos que uso:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Habilidades
-- **Linguagens de Programação:** Python, JavaScript
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
+---
 
-## Projetos
-Estou trabalhando em vários projetos interessantes e você pode acompanhar meu progresso aqui no GitHub. Fique à vontade para explorar e contribuir!
+## 📂 Projetos Recentes  
+🔹 [**SpotifyDataset**](https://github.com/seu-usuario/SpotifyDataset) 🎵 - Exemplo de dataset do PowerBI usando dados do Spotify  
+🔹 [**MinesweeperGuide**](https://github.com/seu-usuario/MinesweeperGuide) 🚀 - Algoritmo AC3 para Minesweeper  
+🔹 [**SquirdleSolver**](https://github.com/seu-usuario/SquirdleSolver) 🔍 - Algoritmo para resolver Squirdle  
+🔹 [**NLW-BeautySalon**](https://github.com/seu-usuario/NLW-BeautySalon) 💄 - Site criado na NextLevelWeek  
 
-## Objetivos
-Quero criar conexões significativas com outros desenvolvedores e aprender continuamente com a comunidade. Se você estiver interessado em colaborar ou discutir tecnologia, sinta-se à vontade para entrar em contato!
+---
 
-## Contato
-Você pode me encontrar em:
-- **LinkedIn:** [Bruna Graciele](http://linkedin.com/in/bruna-graciele)
-- **GitHub:** [BrunaInCodes](https://github.com/BrunaInCodes)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)  
+
+---
+
+### 🔗 **Contato**  
+📧 Email: [Seu Email]  
+💼 LinkedIn: [Seu LinkedIn]  
+🔗 Portfólio: [Seu Site]  
