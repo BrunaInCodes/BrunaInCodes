@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td width="55%">
-      <h3>📚 Cursando [Seu Curso] no [Sua Instituição]</h3>
+      <h3>📚 Cursando Sistemas de Informação no IFBA</h3>
       <h3>🚀 Buscando sempre os melhores resultados!</h3>
-      <h3>🌎 [Sua Cidade, Estado, País]</h3>
+      <h3>🌎 Vitória da Conquista, Bahia, Brasil</h3>
     </td>
     <td width="45%">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpbWVsNW1ieDIyenJmdTVvOGwyOXFzcnYxZHhnamlrcWFuNWc0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
