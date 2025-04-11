@@ -22,13 +22,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+###
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunaInCodes&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaInCodes&theme=dark&hide_border=false" />
-</p>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/BrunInCodes/BrunInCodes/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ### 🔗 **Contato**  
