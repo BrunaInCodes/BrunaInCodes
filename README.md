@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="55%">
-      <h3> Bruna Graciele Silva Souza</h3>
+      <h3>👩‍💻 Bruna Graciele Silva Souza</h3>
       <h4>🎓 Estudante de Sistemas de Informação — IFBA (5º semestre)</h4>
       <h4>📍 Vitória da Conquista - Bahia, Brasil</h4>
     </td>
@@ -68,13 +68,20 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 ---
 
-## 🌐 Conecte-se comigo  
+## 📬 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20Bruna%20Graciele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-graciele)  
-[![GitHub](https://img.shields.io/badge/GitHub%20-%20BrunaInCodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunaInCodes)  
-
-📧 **Email:** [brunagraciele01@icloud.com](mailto:brunagraciele01@icloud.com)
+<p align="left">
+  <a href="https://linkedin.com/in/bruna-graciele" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:brunagraciele01@icloud.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/BrunaInCodes/BrunaInCodes/output/snake.svg" alt="Snake animation" />
+## 📊 Minhas Contribuições no GitHub  
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=BrunaInCodes&theme=tokyonight&hide_border=true)
