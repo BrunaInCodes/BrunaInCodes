@@ -88,5 +88,4 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 ## 📊 Minhas Contribuições no GitHub  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BrunaInCodes&theme=radical)](https://git.io/streak-stats)
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/BrunaInCodes)
