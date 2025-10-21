@@ -82,6 +82,10 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 ---
 
+<img src="https://raw.githubusercontent.com/BrunaInCodes/BrunaInCodes/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## 📊 Minhas Contribuições no GitHub  
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=BrunaInCodes&theme=tokyonight&hide_border=true)
