@@ -16,9 +16,11 @@
 ---
 
 ## 💡 Sobre mim  
-Sou profissional da área de Tecnologia da Informação, com experiência em desenvolvimento e suporte a sistemas, automação de processos e análise de dados.
-Atuei em ambientes corporativos e hospitalares, contribuindo para a otimização de sistemas internos, criação e manutenção de sites institucionais e implementação de soluções em Python e SQL.
-Tenho vivência com ferramentas e serviços em nuvem (AWS), bancos de dados relacionais e versionamento de código com Git/GitHub. 
+Sou profissional da área de **Tecnologia da Informação**, com experiência em **desenvolvimento e suporte a sistemas**, **automação de processos** e **análise de dados**.  
+Atuei em ambientes corporativos e hospitalares, contribuindo para a **otimização de sistemas internos**, **criação e manutenção de sites institucionais** e **implementação de soluções em Python e SQL**.  
+
+Tenho vivência com **ferramentas e serviços em nuvem (AWS)**, **Docker**, **bancos de dados relacionais** e **versionamento de código com Git/GitHub**.  
+Sou reconhecida pela **organização, proatividade e facilidade de aprendizado**, sempre buscando entregar resultados com **qualidade e colaboração em equipe**.  
 
 Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 💻✨  
 
@@ -44,6 +46,7 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 #### ⚙️ Ferramentas e Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
