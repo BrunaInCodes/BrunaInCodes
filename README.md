@@ -93,5 +93,3 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/BrunaInCodes)
 
 ---
-
-<img src="https://raw.githubusercontent.com/BrunaInCodes/BrunaInCodes/output/snake.svg" alt="Snake animation" />
