@@ -88,4 +88,4 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 ## 📊 Minhas Contribuições no GitHub  
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/BrunaInCodes)
+![GitHub Contribution Graph](https://ghchart.rshah.org/BrunaInCodes)
