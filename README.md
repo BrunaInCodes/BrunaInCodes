@@ -16,8 +16,9 @@
 ---
 
 ## 💡 Sobre mim  
-Sou estudante de **Sistemas de Informação** pelo IFBA e atualmente estou me especializando no ecossistema **Python + Cloud (AWS)**.  
-Tenho experiência prática com **automação de processos, análise de dados e desenvolvimento de soluções em Python**, além de interesse crescente por **DevOps e pipelines CI/CD**.  
+Sou profissional da área de Tecnologia da Informação, com experiência em desenvolvimento e suporte a sistemas, automação de processos e análise de dados.
+Atuei em ambientes corporativos e hospitalares, contribuindo para a otimização de sistemas internos, criação e manutenção de sites institucionais e implementação de soluções em Python e SQL.
+Tenho vivência com ferramentas e serviços em nuvem (AWS), bancos de dados relacionais e versionamento de código com Git/GitHub. 
 
 Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 💻✨  
 
