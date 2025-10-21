@@ -70,18 +70,10 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 ## 🌐 Conecte-se comigo  
 
-<p align="left">
-  <a href="https://linkedin.com/in/bruna-graciele" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%20%20%20%20%20BRUNA%20GRACIELE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BrunaInCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-%20%20%20%20%20BRUNAINCODES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20Bruna%20Graciele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-graciele)  
+[![GitHub](https://img.shields.io/badge/GitHub%20-%20BrunaInCodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunaInCodes)  
 
 📧 **Email:** [brunagraciele01@icloud.com](mailto:brunagraciele01@icloud.com)
-
 
 ---
 
