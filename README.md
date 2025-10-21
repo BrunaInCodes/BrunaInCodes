@@ -88,16 +88,5 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 
 ## 📊 Minhas Contribuições no GitHub  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunaInCodes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BrunaInCodes&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaInCodes&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area_color=0d1117&area=true&hide_border=true" />
-</p>
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/BrunaInCodes)
 
