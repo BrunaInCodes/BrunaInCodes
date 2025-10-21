@@ -89,6 +89,6 @@ Busco sempre **aprender, colaborar e criar soluções que gerem impacto real**. 
 ## 📊 Minhas Contribuições no GitHub  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaInCodes&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunaInCodes&theme=github_dark" alt="GitHub Contribution Grid"/>
 </p>
 
