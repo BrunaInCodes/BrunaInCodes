@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="55%">
-      <h3>👩‍💻 Bruna Graciele Silva Souza</h3>
+      <h3> Bruna Graciele Silva Souza</h3>
       <h4>🎓 Estudante de Sistemas de Informação — IFBA (5º semestre)</h4>
       <h4>📍 Vitória da Conquista - Bahia, Brasil</h4>
     </td>
